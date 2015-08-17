@@ -26,7 +26,6 @@ Mia | 3
 </html>
 ```
 
-## Newline
+## Emoji
 
-kucing
-tidur
+:heart_eyes:
