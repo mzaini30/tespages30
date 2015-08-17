@@ -12,6 +12,18 @@ Mia | 3
 - [ ] Makan
 - [x] Mandi
 
+## Ordered List
+
+1. Makan
+2. Mandi
+3. Tidur
+  1. Mandi
+  2. Tidur
+    1. Mati
+    2. Hidup
+    3. Tidur
+  3. Makan
+
 ## Syntax
 
 ```html
