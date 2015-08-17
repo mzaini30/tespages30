@@ -11,3 +11,7 @@ Mia | 3
 
 - [ ] Makan
 - [x] Mandi
+
+## Emoji
+
+:ok_woman:
